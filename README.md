@@ -1,2 +1,2 @@
 # Titactoe
-My first project! Let me know what you think!
+Creating familiarity, in Python with a game of tictactoe. 
